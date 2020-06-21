@@ -49,6 +49,7 @@
 
 ## :space_invader: LunaLua <a name="LunaLua"></a>
 
+* [Alive Weapons. Customizable shooting NPCs.](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=22107) - The API aliveweapons.lua aims to make most projectile-thrower NPCs into real guns for fighting into levels!
 * [pipeCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18574) - A small API that adds a transition when using warp pipes!
 * [One-by-one layer transitions](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17196) - Inspired by SMW overworld transitions, and surprisingly not by Yoshi's Island.
 * [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
