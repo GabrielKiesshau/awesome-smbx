@@ -49,6 +49,7 @@
 
 ## :space_invader: LunaLua <a name="LunaLua"></a>
 
+* [pipeCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18574) - A small API that adds a transition when using warp pipes!
 * [One-by-one layer transitions](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17196) - Inspired by SMW overworld transitions, and surprisingly not by Yoshi's Island.
 * [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
 
