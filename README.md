@@ -49,6 +49,7 @@
 
 ## :space_invader: LunaLua <a name="LunaLua"></a>
 
+* [One-by-one layer transitions](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17196) - Inspired by SMW overworld transitions, and surprisingly not by Yoshi's Island.
 * [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
 
 # :bookmark: Learning Resources <a name="learning-resources"></a>
