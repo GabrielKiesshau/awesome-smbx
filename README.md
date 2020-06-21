@@ -49,7 +49,7 @@
 
 ## :space_invader: LunaLua <a name="LunaLua"></a>
 
-
+* [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
 
 # :bookmark: Learning Resources <a name="learning-resources"></a>
 
