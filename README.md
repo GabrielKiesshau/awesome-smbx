@@ -51,8 +51,8 @@
 
 * [Albatoss](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23775) - It'll fly forward in the direction its heading forever, ridable and passing through terrain just like SMB2. In addition, it is a container and can carry any NPC. It'll drop it's payload when a player is in a short distance in front of it.
 * [Alive Weapons. Customizable shooting NPCs.](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=22107) - The API aliveweapons.lua aims to make most projectile-thrower NPCs into real guns for fighting into levels!
-* [Location headers](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23891) - Script that makes a header appear with a message when entering a section.
 * [Beetroot Powerup](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17989) - It's the beetroot power-up from Mario Forever. With this powerup, you can throw beetroot and they will bounce 2 times, left and right.
+* [Location headers](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23891) - Script that makes a header appear with a message when entering a section.
 * [NPCs that split upon death](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23246) - Used to make any NPC split into any other NPC (even itself!) upon death.
 * [One-by-one layer transitions](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17196) - Inspired by SMW overworld transitions, and surprisingly not by Yoshi's Island.
 * [Parachuting Galoomba and Bob-Omb](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23740) - Parachute Galoomba and Bob-Omb from Super Mario World.
