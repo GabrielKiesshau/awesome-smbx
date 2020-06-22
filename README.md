@@ -63,6 +63,7 @@
 * [Reserve Powerup for Toad, Peach, Link](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23616) - Mario and Luigi's reserve sytem for Toad, Peach and Link.
 * [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
 * [Stickable firebar](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17933) - Stickable firebars on npcs!
+* [tileRandomizer.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23983) - Script to randomize set tiles. Tile IDs, seed and chance are customizable.
 
 # :bookmark: Learning Resources <a name="learning-resources"></a>
 
