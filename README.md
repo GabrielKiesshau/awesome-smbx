@@ -56,6 +56,7 @@
 * [Parachuting Galoomba and Bob-Omb](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23740) - Parachute Galoomba and Bob-Omb from Super Mario World.
 * [pipeCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18574) - A small API that adds a transition when using warp pipes!
 * [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
+* [Stickable firebar](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17933) - Stickable firebars on npcs!
 
 # :bookmark: Learning Resources <a name="learning-resources"></a>
 
