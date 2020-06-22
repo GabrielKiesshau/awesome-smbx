@@ -67,6 +67,7 @@
 * [Reserve Powerup for Toad, Peach, Link](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23616) - Mario and Luigi's reserve sytem for Toad, Peach and Link.
 * [resetdoors.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24038) - A small API that makes warps able to reset NPCs in a section. List of warps and NPCs are customizable.
 * [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
+* [Star Coin't](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24223) - Dizzy Dayzee from Yoshi's Island, if you fancy.
 * [Stickable firebar](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17933) - Stickable firebars on npcs!
 * [tileRandomizer.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23983) - Script to randomize set tiles. Tile IDs, seed and chance are customizable.
 
