@@ -66,6 +66,7 @@
 * [Boomerang Flower](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18010) - It's a custom Boomerang Suit. It replaces the hammer suit and allows the player to throw boomerangs.
 * [Boss Toolkit](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25706) - adversary.lua takes care of the heavy lifting of completely lua-based boss enemies. projectiles.lua takes care of said boss's completely lua-based attacks and effects.
 * [Bouncy Platform](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24646) - A bouncy SMW platform.
+* [Bullet Bill(SMW, SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24125) - Diagonal bullet bills from Super Mario World and chasing bullet bills from Super Mario Maker.
 * [Bumpty](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24645) - Bumpty from Yoshi Island.
 * [Cannons Pack](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24469) - Cannons from Super Mario Bros 3.
 * [Chilly's NPCs](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24406) - From Mad Thwimps to Jade Bowser Statues, and Soaring Sparks to Victor!
