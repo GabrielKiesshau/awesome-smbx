@@ -64,6 +64,7 @@
 * [Fishbone(SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24022) - This is the targeting fishbone from Super Mario Maker.
 * [Flurret](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24440) - Kind of like a Bowser Statue with bounceable projectiles.
 * [Grinder](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24023) - This is the large Grinder from Super Mario World. You cannot jump on them in any capacity unless you have a Boot or Yoshi.
+* [LightHitPoint.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24443) - HealthPoint's modern cousin.
 * [Location headers](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23891) - Script that makes a header appear with a message when entering a section.
 * [lookOut.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18573) - A small API that lets you look around the level!
 * [Noddy](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24265) - Noddy from Kirby.
