@@ -110,6 +110,7 @@
 * [nullifier.lua - Un-draw the environment](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23898) - A BGO which un-draws parts of the environment.
 * [One-by-one layer transitions](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17196) - Inspired by SMW overworld transitions, and surprisingly not by Yoshi's Island.
 * [Parachuting Galoomba and Bob-Omb](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23740) - Parachute Galoomba and Bob-Omb from Super Mario World.
+* [Phoenix Suit](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17802) - It's a custom Phoenix Suit code with GFX. It's basically the Super Leaf powerup but you can fly for only 1 sec and shoot fireballs.
 * [pipeCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18574) - A small API that adds a transition when using warp pipes!
 * [Platforms(SMB3)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24284) - Cloud Platform and a SMB3 rail platforms that fall instantly after usage.
 * [Platforms(SMW)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24471) - Checkboard + Flying Rock Platforms from Super Mario World.
