@@ -82,6 +82,7 @@
 * [Grinder](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24023) - This is the large Grinder from Super Mario World. You cannot jump on them in any capacity unless you have a Boot or Yoshi.
 * [Gusty](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24470) - Gusty from Yoshi Island.
 * [Kracko Jr](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24111) - Kracko Jr from Kirby.
+* [lifeCountPlus.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23252) - Improved life counters.
 * [LightHitPoint.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24443) - HealthPoint's modern cousin.
 * [Location headers](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23891) - Script that makes a header appear with a message when entering a section.
 * [Long Jump + crawl(SM3DW)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24573) - Super Mario 3D World Long Jump and Crawl.
