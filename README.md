@@ -73,7 +73,7 @@
 * [tileRandomizer.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23983) - Script to randomize set tiles. Tile IDs, seed and chance are customizable.
 
 # :bookmark: Learning Resources <a name="learning-resources"></a>
-
+* [How to use NPC/Block/Other Packs](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23744) - A guide on how to use custom NPCs/Blocks/Content, by Enjl.
 
 # :bookmark: Projects <a name="projects"></a>
 
