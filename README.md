@@ -108,6 +108,7 @@
 * [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
 * [sectTrans.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25123) - Adds cross-fade effects when switching sections. Also adds a fade-from-black effect when starting a level.
 * [shooter.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24322) - Blow up things with a click of a mouse.
+* [simpleLayerMovement.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25472) - This is a library which allows for you to simply create complex layer movement.
 * [snifit.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=21769) - This library allows you to modify the properties of snifits, such as projectiles, behavior, etc.
 * [Spring Yard Zone Paralax Background](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24275) - Spring Yard Zone background from Sonic.
 * [Star Coin't](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24223) - Dizzy Dayzee from Yoshi's Island, if you fancy.
