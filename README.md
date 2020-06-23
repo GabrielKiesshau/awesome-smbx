@@ -57,6 +57,7 @@
 * [customblockanim.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23899) - This script lets you customize blocks kinda like you would customise NPCs, BGOs and effects in txt files.
 * [Eating Vine Heads](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24117) - Vine heads that replicate Super Mario World's more closely, eating blocks that don't block their path - and solid blocks, too, if they're directly above where they spawn! They'll also eat NPCs like coins, and can be configured to eat a lot more or a lot less. Comes in regular, mutant, and player-controlled variations.
 * [Fake Frozen Blocks](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24254) - Script that adds an outlined block that when shot with an iceball turns into an ice block.
+* [Falling Spike](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24261) - Falling Spike from Super Mario World.
 * [Fishbone(SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24022) - This is the targeting fishbone from Super Mario Maker.
 * [Grinder](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24023) - This is the large Grinder from Super Mario World. You cannot jump on them in any capacity unless you have a Boot or Yoshi.
 * [Location headers](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23891) - Script that makes a header appear with a message when entering a section.
