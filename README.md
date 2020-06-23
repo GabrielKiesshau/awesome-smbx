@@ -185,7 +185,7 @@
 
 
 # :bookmark: Contributors to this repository <a name="contributors"></a>
-
+* [Red Yoshi](https://www.supermariobrosx.org/forums/memberlist.php?mode=viewprofile&u=1230)
 
 # :bookmark: Contributing <a name="contributing"></a>
 
