@@ -82,6 +82,7 @@
 * [Goomba Tower](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24835) - A goomba stack, with a height option.
 * [Gold Flower](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25237) - Gold flower from New Super Mario Bros 2.
 * [Grinder](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24023) - This is the large Grinder from Super Mario World. You cannot jump on them in any capacity unless you have a Boot or Yoshi.
+* [groundPound.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24920) - Adds the ability to groundpound.
 * [Gusty](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24470) - Gusty from Yoshi Island.
 * [Kracko Jr](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24111) - Kracko Jr from Kirby.
 * [lifeCountPlus.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23252) - Improved life counters.
