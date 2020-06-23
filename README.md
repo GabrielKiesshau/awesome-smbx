@@ -107,6 +107,7 @@
 * [Platforms(SMW)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24471) - Checkboard + Flying Rock Platforms from Super Mario World.
 * [playerSymbols.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25570) - A script that replaces the usual ‘1UP’ sprite next to the level counter with a custom emblem specific to each character.
 * [Plonker](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24262) - Like a swooper, just more friend-shaped.
+* [Pokey(SMW)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24712) - Pokey from Super Mario World.
 * [Polflip](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24442) - He tries to move in one direction until he figures out it's impossible. A direction change happens after 2 unsuccessful flips.
 * [Porcu-Puffer](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24472) - Porcu-Puffer from Super Mario World.
 * [Rammerheads](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23976) - Rammerheads from Super Mario 3D World.
