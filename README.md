@@ -49,6 +49,7 @@
 
 ## :space_invader: LunaLua <a name="LunaLua"></a>
 
+* [1-Way Bullet Bill Cannon](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24468) - Bullet Bill Cannon that shoots in one direction.
 * [Albatoss](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23775) - It'll fly forward in the direction its heading forever, ridable and passing through terrain just like SMB2. In addition, it is a container and can carry any NPC. It'll drop it's payload when a player is in a short distance in front of it.
 * [Alive Weapons. Customizable shooting NPCs.](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=22107) - The API aliveweapons.lua aims to make most projectile-thrower NPCs into real guns for fighting into levels!
 * [Bearvor](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24438) - They jump when you jump. If you set them to "don't move", they are comparable to skipsqueaks, just with way stronger legys.
