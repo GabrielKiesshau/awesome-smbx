@@ -56,6 +56,7 @@
 * [Amazing Flyin' Hammer Bros.](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24434) - Amazing Flyin' Hammer Bros. from Super Mario World.
 * [anothercurrency.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24798) - This library just counts stuff you collected across levels.
 * [anotherpowerup.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25474) - This essentially replaces the fire and ice flower with whatever you want. It comes preinstalled with fire and ice flower replacements.
+* [Ball 'n' Chain](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25814) - Ball 'n' Chain from Super Mario World.
 * [Barry Family](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24437) - Barry, Barrier, Barron and Barriest, as well as Parapara variants. These are solid walker NPCs which can be killed from below. Neat for jumping challenges or blocking progression. Also really good smiles.
 * [Bearvor](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24438) - They jump when you jump. If you set them to "don't move", they are comparable to skipsqueaks, just with way stronger legys.
 * [Beep Blocks](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24259) - Alternatively, beat blocks.
