@@ -143,6 +143,7 @@
 * [smoothWorld.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25126) - A library meant to introduce smooth camera movement to the overworld.
 * [snifit.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=21769) - This library allows you to modify the properties of snifits, such as projectiles, behavior, etc.
 * [spawnzones.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23984) - This script turns the SMB3 blue block sizeable (ID 27) into a marker for custom spawn regions. While the player is inside one of those regions, all NPCs inside that region will remain "onscreen".
+* [SpoonyBard's NPCs](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25297) - Adds Tap-Taps and Skipsqueaks.
 * [Spring Yard Zone Paralax Background](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24275) - Spring Yard Zone background from Sonic.
 * [Star Coin't](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24223) - Dizzy Dayzee from Yoshi's Island, if you fancy.
 * [Stickable firebar](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17933) - Stickable firebars on npcs!
