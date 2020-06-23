@@ -57,6 +57,7 @@
 * [Bearvor](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24438) - They jump when you jump. If you set them to "don't move", they are comparable to skipsqueaks, just with way stronger legys.
 * [Beep Blocks](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24259) - Alternatively, beat blocks.
 * [Beetroot Powerup](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17989) - It's the beetroot power-up from Mario Forever. With this powerup, you can throw beetroot and they will bounce 2 times, left and right.
+* [Blocknt](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24439) - He chomps blocks.
 * [Bob-Omb(SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24264) - Bob-Omb from Super Mario Maker.
 * [Cannons Pack](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24469) - Cannons from Super Mario Bros 3.
 * [Conveyor Walls](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24042) - Player can boost up vertically! Also you can press Jump or Altjump button to boost up even more. It even works with NPCs (well actually it works only with SMB3 Goomba, Grand-Goomba and SMW Spiny, but you can change those stuff in code).
