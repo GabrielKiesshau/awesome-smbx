@@ -107,6 +107,7 @@
 * [Rammerheads](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23976) - Rammerheads from Super Mario 3D World.
 * [Red Orb](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25095) - Red Orb from Celeste.
 * [Red Springboard(SMB1)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24467) - Red Springboard from Super Mario Bros 1.
+* [Redstone](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25443) - NPC pack meant to enhance puzzle level (or really any kind of level).
 * [Reserve Powerup for Toad, Peach, Link](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23616) - Mario and Luigi's reserve sytem for Toad, Peach and Link.
 * [resetdoors.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24038) - A small API that makes warps able to reset NPCs in a section. List of warps and NPCs are customizable.
 * [Ring Burner](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24084) - Ring burners from Super Mario 3D World.
