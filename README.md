@@ -105,6 +105,7 @@
 * [Super Mario Bros. Special's Powerups](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24231) - This NPC pack includes all five exclusive powerups in Super Mario Bros. Special by Hudson Soft.
 * [tileRandomizer.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23983) - Script to randomize set tiles. Tile IDs, seed and chance are customizable.
 * [Urchin](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24248) - Urchins from Super Mario World.
+* [venusFireTrapPlus.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25148) - A script that enables the player to set the behavior of a Venus Fire Trap, like shooting extra fireballs.
 
 # :bookmark: Learning Resources <a name="learning-resources"></a>
 * [How to use NPC/Block/Other Packs](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23744) - A guide on how to use custom NPCs/Blocks/Content, by Enjl.
