@@ -68,6 +68,7 @@
 * [One-by-one layer transitions](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17196) - Inspired by SMW overworld transitions, and surprisingly not by Yoshi's Island.
 * [Parachuting Galoomba and Bob-Omb](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23740) - Parachute Galoomba and Bob-Omb from Super Mario World.
 * [pipeCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18574) - A small API that adds a transition when using warp pipes!
+* [Plonker](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24262) - Like a swooper, just more friend-shaped.
 * [Reserve Powerup for Toad, Peach, Link](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23616) - Mario and Luigi's reserve sytem for Toad, Peach and Link.
 * [resetdoors.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24038) - A small API that makes warps able to reset NPCs in a section. List of warps and NPCs are customizable.
 * [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
