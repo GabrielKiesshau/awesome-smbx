@@ -50,6 +50,7 @@
 ## :space_invader: LunaLua <a name="LunaLua"></a>
 
 * [1-Way Bullet Bill Cannon](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24468) - Bullet Bill Cannon that shoots in one direction.
+* [3-Up/Down Moons](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24113) - 3-Up Moon from Super Mario World and also a reverse 3-Up(3-Down) Moon.
 * [Albatoss](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23775) - It'll fly forward in the direction its heading forever, ridable and passing through terrain just like SMB2. In addition, it is a container and can carry any NPC. It'll drop it's payload when a player is in a short distance in front of it.
 * [Alive Weapons. Customizable shooting NPCs.](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=22107) - The API aliveweapons.lua aims to make most projectile-thrower NPCs into real guns for fighting into levels!
 * [Amazing Flyin' Hammer Bros.](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24434) - Amazing Flyin' Hammer Bros. from Super Mario World.
