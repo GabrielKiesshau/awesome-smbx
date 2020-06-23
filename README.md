@@ -94,6 +94,7 @@
 * [Mole Suit](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17957) - It's a custom Mole Suit. You can go underground, and jump out by pressing UP. You are also invulnerable while doing so.
 * [Muncher(SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24263) - Gravity affected munchers from Super Mario Maker.
 * [Noddy](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24265) - Noddy from Kirby.
+* [noFloatingDoors.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25685) - Disables entering door and pipes if player isn't standing on ground.
 * [NPCs that split upon death](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23246) - Used to make any NPC split into any other NPC (even itself!) upon death.
 * [NSMBWalls.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18037) - Fake walls from New Super Mario Bros Wii.
 * [nullifier.lua - Un-draw the environment](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23898) - A BGO which un-draws parts of the environment.
