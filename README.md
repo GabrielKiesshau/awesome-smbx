@@ -75,6 +75,7 @@
 * [Fishing Boo](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24457) - Fishing Boo from Super Mario World.
 * [Flurret](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24440) - Kind of like a Bowser Statue with bounceable projectiles.
 * [Goomba Tower](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24835) - A goomba stack, with a height option.
+* [Gold Flower](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25237) - Gold flower from New Super Mario Bros 2.
 * [Grinder](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24023) - This is the large Grinder from Super Mario World. You cannot jump on them in any capacity unless you have a Boot or Yoshi.
 * [Gusty](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24470) - Gusty from Yoshi Island.
 * [LightHitPoint.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24443) - HealthPoint's modern cousin.
