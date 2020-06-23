@@ -105,6 +105,7 @@
 * [midAirTwirl.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=21495) - This script lets the user twirl in the middle of the air like it is used to be in New Super Mario Bros. for the Nintendo Wii, and Wii U.
 * [Minecart](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25500) - Adds a rideable minecart.
 * [Mole Suit](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17957) - It's a custom Mole Suit. You can go underground, and jump out by pressing UP. You are also invulnerable while doing so.
+* [MrDoubleA's NPC Pack](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25011) - Seesaws, custom piranha plants, one-way walls and much more!
 * [Muncher(SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24263) - Gravity affected munchers from Super Mario Maker.
 * [Noddy](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24265) - Noddy from Kirby.
 * [noFloatingDoors.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25685) - Disables entering door and pipes if player isn't standing on ground.
