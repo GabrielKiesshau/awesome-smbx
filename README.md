@@ -104,6 +104,7 @@
 * [Ruby](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24441) - He ruby him's belly on floor.
 * [screenRotate.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25165) - A script that causes the screen to rotate periodically.
 * [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
+* [sectTrans.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25123) - Adds cross-fade effects when switching sections. Also adds a fade-from-black effect when starting a level.
 * [shooter.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24322) - Blow up things with a click of a mouse.
 * [snifit.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=21769) - This library allows you to modify the properties of snifits, such as projectiles, behavior, etc.
 * [Spring Yard Zone Paralax Background](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24275) - Spring Yard Zone background from Sonic.
