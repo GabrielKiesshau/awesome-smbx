@@ -94,6 +94,7 @@
 * [Plonker](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24262) - Like a swooper, just more friend-shaped.
 * [Polflip](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24442) - He tries to move in one direction until he figures out it's impossible. A direction change happens after 2 unsuccessful flips.
 * [Porcu-Puffer](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24472) - Porcu-Puffer from Super Mario World.
+* [Red Orb](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25095) - Red Orb from Celeste.
 * [Red Springboard(SMB1)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24467) - Red Springboard from Super Mario Bros 1.
 * [Reserve Powerup for Toad, Peach, Link](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23616) - Mario and Luigi's reserve sytem for Toad, Peach and Link.
 * [resetdoors.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24038) - A small API that makes warps able to reset NPCs in a section. List of warps and NPCs are customizable.
