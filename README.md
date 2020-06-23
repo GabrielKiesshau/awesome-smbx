@@ -75,6 +75,7 @@
 * [Gusty](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24470) - Gusty from Yoshi Island.
 * [LightHitPoint.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24443) - HealthPoint's modern cousin.
 * [Location headers](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23891) - Script that makes a header appear with a message when entering a section.
+* [Long Jump + crawl(SM3DW)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24573) - Super Mario 3D World Long Jump and Crawl.
 * [lookOut.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18573) - A small API that lets you look around the level!
 * [Mole Suit](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17957) - It's a custom Mole Suit. You can go underground, and jump out by pressing UP. You are also invulnerable while doing so.
 * [Noddy](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24265) - Noddy from Kirby.
