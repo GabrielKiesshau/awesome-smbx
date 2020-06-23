@@ -61,6 +61,7 @@
 * [Grinder](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24023) - This is the large Grinder from Super Mario World. You cannot jump on them in any capacity unless you have a Boot or Yoshi.
 * [Location headers](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23891) - Script that makes a header appear with a message when entering a section.
 * [lookOut.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18573) - A small API that lets you look around the level!
+* [Noddy](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24265) - Noddy from Kirby.
 * [NPCs that split upon death](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23246) - Used to make any NPC split into any other NPC (even itself!) upon death.
 * [nullifier.lua - Un-draw the environment](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23898) - A BGO which un-draws parts of the environment.
 * [One-by-one layer transitions](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17196) - Inspired by SMW overworld transitions, and surprisingly not by Yoshi's Island.
