@@ -72,6 +72,7 @@
 * [Cannons Pack](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24469) - Cannons from Super Mario Bros 3.
 * [Chilly's NPCs](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24406) - From Mad Thwimps to Jade Bowser Statues, and Soaring Sparks to Victor!
 * [Conveyor Walls](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24042) - Player can boost up vertically! Also you can press Jump or Altjump button to boost up even more. It even works with NPCs (well actually it works only with SMB3 Goomba, Grand-Goomba and SMW Spiny, but you can change those stuff in code).
+* [coyotetime.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25779) - Coyote time describes the idea of being able to jump a few frames after leaving the ground.
 * [customblockanim.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23899) - This script lets you customize blocks kinda like you would customise NPCs, BGOs and effects in txt files.
 * [Customized Billy Gun](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24118) - Billy gun with custom projectile.
 * [Custom Inventory System](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25635) - A custom inventory system, but works pretty similar to the New Super Mario Bros one.
