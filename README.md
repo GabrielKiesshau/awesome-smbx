@@ -55,6 +55,7 @@
 * [Amazing Flyin' Hammer Bros.](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24434) - Amazing Flyin' Hammer Bros. from Super Mario World.
 * [Barry Family](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24437) - Barry, Barrier, Barron and Barriest, as well as Parapara variants. These are solid walker NPCs which can be killed from below. Neat for jumping challenges or blocking progression. Also really good smiles.
 * [Bearvor](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24438) - They jump when you jump. If you set them to "don't move", they are comparable to skipsqueaks, just with way stronger legys.
+* [Beep Blocks](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24259) - Alternatively, beat blocks.
 * [Beetroot Powerup](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17989) - It's the beetroot power-up from Mario Forever. With this powerup, you can throw beetroot and they will bounce 2 times, left and right.
 * [Bob-Omb(SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24264) - Bob-Omb from Super Mario Maker.
 * [Cannons Pack](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24469) - Cannons from Super Mario Bros 3.
