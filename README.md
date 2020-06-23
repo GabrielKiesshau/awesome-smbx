@@ -57,6 +57,7 @@
 * [Amazing Flyin' Hammer Bros.](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24434) - Amazing Flyin' Hammer Bros. from Super Mario World.
 * [anothercurrency.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24798) - This library just counts stuff you collected across levels.
 * [anotherpowerup.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25474) - This essentially replaces the fire and ice flower with whatever you want. It comes preinstalled with fire and ice flower replacements.
+* [anotherwalljump.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24793) - This enables walljumps with the default settings for the 5 default characters.
 * [Ball 'n' Chain](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25814) - Ball 'n' Chain from Super Mario World.
 * [Barry Family](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24437) - Barry, Barrier, Barron and Barriest, as well as Parapara variants. These are solid walker NPCs which can be killed from below. Neat for jumping challenges or blocking progression. Also really good smiles.
 * [Bearvor](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24438) - They jump when you jump. If you set them to "don't move", they are comparable to skipsqueaks, just with way stronger legys.
@@ -154,7 +155,7 @@
 * [Urchin](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24260) - Urchins from Super Mario World.
 * [venusFireTrapPlus.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25148) - A script that enables the player to set the behavior of a Venus Fire Trap, like shooting extra fireballs.
 * [viewport.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=19126) - Make the screen smaller.
-* [Walljumps.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=16025) - I wrote an API yesterday that allows walljumping universally for all characters.
+* [Walljumps.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=16025) - An API that allows walljumping universally for all characters.
 * [warpTransition.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25750) - This is just a small library to add transitions when using warps or entering the level. Additionally, it also offers music fading between sections.
 
 # :bookmark: Learning Resources <a name="learning-resources"></a>
