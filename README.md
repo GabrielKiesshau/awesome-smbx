@@ -181,9 +181,6 @@
 
 ## :space_invader: People to Follow <a name="people-to-follow"></a>
 
-# :bookmark: Frequently Asked Questions (FAQ) <a name="faq"></a>
-
-
 # :bookmark: Contributors to this repository <a name="contributors"></a>
 * [Red Yoshi](https://www.supermariobrosx.org/forums/memberlist.php?mode=viewprofile&u=1230)
 
