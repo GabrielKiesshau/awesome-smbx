@@ -99,6 +99,7 @@
 * [lookOut.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18573) - A small API that lets you look around the level!
 * [Melons](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24752) - Red and Icy Melons from Yoshi Island.
 * [Message Evaluator](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25578) - Execute Lua code in SMBX Messages!
+* [midAirTwirl.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=21495) - This script lets the user twirl in the middle of the air like it is used to be in New Super Mario Bros. for the Nintendo Wii, and Wii U.
 * [Minecart](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25500) - Adds a rideable minecart.
 * [Mole Suit](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17957) - It's a custom Mole Suit. You can go underground, and jump out by pressing UP. You are also invulnerable while doing so.
 * [Muncher(SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24263) - Gravity affected munchers from Super Mario Maker.
