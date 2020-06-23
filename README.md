@@ -170,6 +170,7 @@
 * [SMBX Forums](https://www.supermariobrosx.org/forums) - Official SMBX Forums.
 
 ## :name_badge: People to Follow <a name="people-to-follow"></a>
+* [Enjl](https://www.youtube.com/channel/UCOdVJ9O3M6jWI2dfnM8byvQ)
 
 # :clap: :tada: Contributors to this repository <a name="contributors"></a>
 * [Red Yoshi](https://www.supermariobrosx.org/forums/memberlist.php?mode=viewprofile&u=1230)
