@@ -72,6 +72,7 @@
 * [Falling Spike](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24261) - Falling Spike from Super Mario World.
 * [Fishbone(SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24022) - This is the targeting fishbone from Super Mario Maker.
 * [Flurret](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24440) - Kind of like a Bowser Statue with bounceable projectiles.
+* [Goomba Tower](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24835) - A goomba stack, with a height option.
 * [Grinder](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24023) - This is the large Grinder from Super Mario World. You cannot jump on them in any capacity unless you have a Boot or Yoshi.
 * [Gusty](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24470) - Gusty from Yoshi Island.
 * [LightHitPoint.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24443) - HealthPoint's modern cousin.
