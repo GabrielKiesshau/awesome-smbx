@@ -39,10 +39,10 @@
 - [Contributors to this repository](#contributors)
 - [Contributing](#contributing)
 
-# :bookmark: Motivation <a name="motivation"></a>
+# Motivation <a name="motivation"></a>
 
 
-# :bookmark: Considerations <a name="considerations"></a>
+# Considerations <a name="considerations"></a>
 
 
 # :bookmark: Categories <a name="categories"></a>
@@ -163,28 +163,28 @@
 * [Walljumps.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=16025) - An API that allows walljumping universally for all characters.
 * [warpTransition.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25750) - This is just a small library to add transitions when using warps or entering the level. Additionally, it also offers music fading between sections.
 
-# :bookmark: Learning Resources <a name="learning-resources"></a>
+# :mortar_board: Learning Resources <a name="learning-resources"></a>
 * [How to use NPC/Block/Other Packs](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23744) - A guide on how to use custom NPCs/Blocks/Content, by Enjl.
 
-# :bookmark: Projects <a name="projects"></a>
+# Projects <a name="projects"></a>
 
 
-# :bookmark: Communities <a name="communities"></a>
+# :busts_in_silhouette: Communities <a name="communities"></a>
 
-## :space_invader: Chat Servers <a name="chat-servers"></a>
+## :speech_balloon: Chat Servers <a name="chat-servers"></a>
 
 * [SMBX Discord Server](https://discord.gg/S2eAAy6) - Official SMBX Discord Server.
 
-## :space_invader: Forums <a name="forums"></a>
+## Forums <a name="forums"></a>
 
 * [SMBX Forums](https://www.supermariobrosx.org/forums) - Official SMBX Forums.
 
-## :space_invader: People to Follow <a name="people-to-follow"></a>
+## :name_badge: People to Follow <a name="people-to-follow"></a>
 
-# :bookmark: Contributors to this repository <a name="contributors"></a>
+# :clap: :tada: Contributors to this repository <a name="contributors"></a>
 * [Red Yoshi](https://www.supermariobrosx.org/forums/memberlist.php?mode=viewprofile&u=1230)
 
-# :bookmark: Contributing <a name="contributing"></a>
+# Contributing <a name="contributing"></a>
 Please see [CONTRIBUTING](https://github.com/GabrielKiesshau/awesome-smbx/blob/master/CONTRIBUTING.md) for details.
 
 Thanks to all the [contributors](#contributors), this wouldn't be possible without you!
