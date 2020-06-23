@@ -114,6 +114,7 @@
 * [pipeCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18574) - A small API that adds a transition when using warp pipes!
 * [Platforms(SMB3)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24284) - Cloud Platform and a SMB3 rail platforms that fall instantly after usage.
 * [Platforms(SMW)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24471) - Checkboard + Flying Rock Platforms from Super Mario World.
+* [playerphysicspatch.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25854) - Customized player physics.
 * [playerSymbols.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25570) - A script that replaces the usual ‘1UP’ sprite next to the level counter with a custom emblem specific to each character.
 * [Plonker](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24262) - Like a swooper, just more friend-shaped.
 * [Pokey(SMW)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24712) - Pokey from Super Mario World.
