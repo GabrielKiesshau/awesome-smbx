@@ -87,6 +87,7 @@
 * [Long Jump + crawl(SM3DW)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24573) - Super Mario 3D World Long Jump and Crawl.
 * [lookOut.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18573) - A small API that lets you look around the level!
 * [Melons](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24752) - Red and Icy Melons from Yoshi Island.
+* [Message Evaluator](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25578) - Execute Lua code in SMBX Messages!
 * [Minecart](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25500) - Adds a rideable minecart.
 * [Mole Suit](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17957) - It's a custom Mole Suit. You can go underground, and jump out by pressing UP. You are also invulnerable while doing so.
 * [Muncher(SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24263) - Gravity affected munchers from Super Mario Maker.
