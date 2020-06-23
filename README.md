@@ -62,6 +62,7 @@
 * [Beetroot Powerup](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17989) - It's the beetroot power-up from Mario Forever. With this powerup, you can throw beetroot and they will bounce 2 times, left and right.
 * [Blocknt](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24439) - He chomps blocks.
 * [Bob-Omb(SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24264) - Bob-Omb from Super Mario Maker.
+* [Boss Toolkit](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25706) - adversary.lua takes care of the heavy lifting of completely lua-based boss enemies. projectiles.lua takes care of said boss's completely lua-based attacks and effects.
 * [Bouncy Platform](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24646) - A bouncy SMW platform.
 * [Bumpty](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24645) - Bumpty from Yoshi Island.
 * [Cannons Pack](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24469) - Cannons from Super Mario Bros 3.
