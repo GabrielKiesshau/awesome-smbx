@@ -146,6 +146,7 @@
 * [Urchin](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24260) - Urchins from Super Mario World.
 * [venusFireTrapPlus.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25148) - A script that enables the player to set the behavior of a Venus Fire Trap, like shooting extra fireballs.
 * [viewport.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=19126) - Make the screen smaller.
+* [warpTransition.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25750) - This is just a small library to add transitions when using warps or entering the level. Additionally, it also offers music fading between sections.
 
 # :bookmark: Learning Resources <a name="learning-resources"></a>
 * [How to use NPC/Block/Other Packs](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23744) - A guide on how to use custom NPCs/Blocks/Content, by Enjl.
