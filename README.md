@@ -94,6 +94,7 @@
 * [One-by-one layer transitions](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17196) - Inspired by SMW overworld transitions, and surprisingly not by Yoshi's Island.
 * [Parachuting Galoomba and Bob-Omb](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23740) - Parachute Galoomba and Bob-Omb from Super Mario World.
 * [pipeCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18574) - A small API that adds a transition when using warp pipes!
+* [playerSymbols.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25570) - A script that replaces the usual ‘1UP’ sprite next to the level counter with a custom emblem specific to each character.
 * [Plonker](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24262) - Like a swooper, just more friend-shaped.
 * [Polflip](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24442) - He tries to move in one direction until he figures out it's impossible. A direction change happens after 2 unsuccessful flips.
 * [Porcu-Puffer](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24472) - Porcu-Puffer from Super Mario World.
