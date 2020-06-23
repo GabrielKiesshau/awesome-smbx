@@ -70,6 +70,7 @@
 * [LightHitPoint.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24443) - HealthPoint's modern cousin.
 * [Location headers](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23891) - Script that makes a header appear with a message when entering a section.
 * [lookOut.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18573) - A small API that lets you look around the level!
+* [Mole Suit](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17957) - It's a custom Mole Suit. You can go underground, and jump out by pressing UP. You are also invulnerable while doing so.
 * [Noddy](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24265) - Noddy from Kirby.
 * [NPCs that split upon death](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23246) - Used to make any NPC split into any other NPC (even itself!) upon death.
 * [nullifier.lua - Un-draw the environment](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23898) - A BGO which un-draws parts of the environment.
