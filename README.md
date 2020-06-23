@@ -70,6 +70,7 @@
 * [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
 * [Star Coin't](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24223) - Dizzy Dayzee from Yoshi's Island, if you fancy.
 * [Stickable firebar](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17933) - Stickable firebars on npcs!
+* [Super Mario Bros. Special's Powerups](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24231) - This NPC pack includes all five exclusive powerups in Super Mario Bros. Special by Hudson Soft.
 * [tileRandomizer.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23983) - Script to randomize set tiles. Tile IDs, seed and chance are customizable.
 
 # :bookmark: Learning Resources <a name="learning-resources"></a>
