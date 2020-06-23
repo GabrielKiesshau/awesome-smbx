@@ -145,6 +145,7 @@
 * [Super Mario Maker Pack](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24994) - A bunch of NPCs from Super Mario Maker.
 * [tileRandomizer.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23983) - Script to randomize set tiles. Tile IDs, seed and chance are customizable.
 * [Time Clocks](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25603) - Clocks that add/subtract time when collected.
+* [Twister](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24500) - Twister from Super Mario Maker 2.
 * [Urchin](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24248) - Urchins from Super Mario World.
 * [Urchin](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24260) - Urchins from Super Mario World.
 * [venusFireTrapPlus.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25148) - A script that enables the player to set the behavior of a Venus Fire Trap, like shooting extra fireballs.
