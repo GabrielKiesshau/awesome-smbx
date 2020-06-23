@@ -188,4 +188,6 @@
 * [Red Yoshi](https://www.supermariobrosx.org/forums/memberlist.php?mode=viewprofile&u=1230)
 
 # :bookmark: Contributing <a name="contributing"></a>
+Please see [CONTRIBUTING](https://github.com/GabrielKiesshau/awesome-smbx/blob/master/CONTRIBUTING.md) for details.
 
+Thanks to all the [contributors](#contributors), this wouldn't be possible without you!
