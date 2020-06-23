@@ -137,6 +137,7 @@
 * [screenRotate.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25165) - A script that causes the screen to rotate periodically.
 * [scrollCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18575) - A small API that adds a scrolling effect to the camera!
 * [sectTrans.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25123) - Adds cross-fade effects when switching sections. Also adds a fade-from-black effect when starting a level.
+* [Seta's NPC Pack](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25234) - A collection of awesome NPCs!
 * [shooter.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24322) - Blow up things with a click of a mouse.
 * [Silhouette Shader](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24435) - Silhouette Shader.
 * [Silver P-Switch](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25669) - Silver P-Switch from Super Mario World.
