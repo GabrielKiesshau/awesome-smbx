@@ -115,6 +115,7 @@
 * [Stickable firebar](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17933) - Stickable firebars on npcs!
 * [Super Mario Bros. Special's Powerups](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24231) - This NPC pack includes all five exclusive powerups in Super Mario Bros. Special by Hudson Soft.
 * [tileRandomizer.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23983) - Script to randomize set tiles. Tile IDs, seed and chance are customizable.
+* [Time Clocks](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25603) - Clocks that add/subtract time when collected.
 * [Urchin](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24248) - Urchins from Super Mario World.
 * [Urchin](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24260) - Urchins from Super Mario World.
 * [venusFireTrapPlus.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25148) - A script that enables the player to set the behavior of a Venus Fire Trap, like shooting extra fireballs.
