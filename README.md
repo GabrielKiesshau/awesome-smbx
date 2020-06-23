@@ -71,6 +71,7 @@
 * [Fake Frozen Blocks](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24254) - Script that adds an outlined block that when shot with an iceball turns into an ice block.
 * [Falling Spike](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24261) - Falling Spike from Super Mario World.
 * [Fishbone(SMM)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24022) - This is the targeting fishbone from Super Mario Maker.
+* [Fishing Boo](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24457) - Fishing Boo from Super Mario World.
 * [Flurret](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24440) - Kind of like a Bowser Statue with bounceable projectiles.
 * [Goomba Tower](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24835) - A goomba stack, with a height option.
 * [Grinder](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24023) - This is the large Grinder from Super Mario World. You cannot jump on them in any capacity unless you have a Boot or Yoshi.
