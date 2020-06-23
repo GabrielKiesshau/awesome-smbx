@@ -20,7 +20,6 @@
 
 # :bookmark_tabs: Contents
 
-- [Motivation](#motivation)
 - [Considerations](#considerations)
 - [Categories](#categories)
   - [LunaLua](#LunaLua)
@@ -32,9 +31,6 @@
   - [People to Follow](#people-to-follow)
 - [Contributors to this repository](#contributors)
 - [Contributing](#contributing)
-
-# Motivation <a name="motivation"></a>
-
 
 # Considerations <a name="considerations"></a>
 
