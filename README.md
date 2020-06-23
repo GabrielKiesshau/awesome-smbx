@@ -70,6 +70,7 @@
 * [Customized Billy Gun](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24118) - Billy gun with custom projectile.
 * [Custom Inventory System](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25635) - A custom inventory system, but works pretty similar to the New Super Mario Bros one.
 * [Custom Lift Platform](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24285) - SMW Lift Platform, but it's a bit different.
+* [Custom Rex Pack](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24841) - A pack of 7 custom rex NPCs.
 * [Eating Vine Heads](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24117) - Vine heads that replicate Super Mario World's more closely, eating blocks that don't block their path - and solid blocks, too, if they're directly above where they spawn! They'll also eat NPCs like coins, and can be configured to eat a lot more or a lot less. Comes in regular, mutant, and player-controlled variations.
 * [Elite Koopa Troopas](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24083) - The Elite Koopas are custom NPCs that were used in SMW Hacking.
 * [Exclusive Blocks](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24091) - Toggled blocks that come in four colors and can be toggled between solid and passthrough with a switch NPC or switch block of the same color.
