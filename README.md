@@ -152,6 +152,7 @@
 * [Stickable firebar](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17933) - Stickable firebars on npcs!
 * [Super Mario Bros. Special's Powerups](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24231) - This NPC pack includes all five exclusive powerups in Super Mario Bros. Special by Hudson Soft.
 * [Super Mario Maker Pack](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24994) - A bunch of NPCs from Super Mario Maker.
+* [Taycam's pack](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25733) - Taycam's pack of lua jank that you might find useful!
 * [tileRandomizer.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23983) - Script to randomize set tiles. Tile IDs, seed and chance are customizable.
 * [Time Clocks](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25603) - Clocks that add/subtract time when collected.
 * [Twister](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24500) - Twister from Super Mario Maker 2.
