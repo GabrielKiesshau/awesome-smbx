@@ -97,6 +97,7 @@
 * [Red Springboard(SMB1)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24467) - Red Springboard from Super Mario Bros 1.
 * [Reserve Powerup for Toad, Peach, Link](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23616) - Mario and Luigi's reserve sytem for Toad, Peach and Link.
 * [resetdoors.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24038) - A small API that makes warps able to reset NPCs in a section. List of warps and NPCs are customizable.
+* [Ring Burner](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24084) - Ring burners from Super Mario 3D World.
 * [Rotten Mushroom + Devil Upgrade(SMM2)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24132) - Rotten Mushroom from Super Mario Maker 2.
 * [Ruby](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24441) - He ruby him's belly on floor.
 * [screenRotate.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25165) - A script that causes the screen to rotate periodically.
