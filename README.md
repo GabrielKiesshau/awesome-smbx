@@ -91,7 +91,6 @@
 * [Location headers](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23891) - Script that makes a header appear with a message when entering a section.
 * [Long Jump + crawl(SM3DW)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24573) - Super Mario 3D World Long Jump and Crawl.
 * [lookOut.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18573) - A small API that lets you look around the level!
-* [Melons](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24752) - Red and Icy Melons from Yoshi Island.
 * [Message Evaluator](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25578) - Execute Lua code in SMBX Messages!
 * [midAirTwirl.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=21495) - This script lets the user twirl in the middle of the air like it is used to be in New Super Mario Bros. for the Nintendo Wii, and Wii U.
 * [Minecart](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25500) - Adds a rideable minecart.
