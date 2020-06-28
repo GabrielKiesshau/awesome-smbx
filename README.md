@@ -106,7 +106,7 @@
 * [Parachuting Galoomba and Bob-Omb](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=23740) - Parachute Galoomba and Bob-Omb from Super Mario World.
 * [Phoenix Suit](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17802) - It's a custom Phoenix Suit code with GFX. It's basically the Super Leaf powerup but you can fly for only 1 sec and shoot fireballs.
 * [pipeCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18574) - A small API that adds a transition when using warp pipes!
-* [Platforms(SMB3)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24284) - Cloud Platform and a SMB3 rail platforms that fall instantly after usage.
+* [Platforms(SMB3)](https://wohlsoft.ru/forum/viewtopic.php?f=93&t=2940) - SMB3 Touch-Falling Moving Platform + Moving Cloud.
 * [Platforms(SMW)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24471) - Checkboard + Flying Rock Platforms from Super Mario World.
 * [playerphysicspatch.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25854) - Customized player physics.
 * [playerSymbols.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25570) - A script that replaces the usual ‘1UP’ sprite next to the level counter with a custom emblem specific to each character.
