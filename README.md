@@ -107,7 +107,7 @@
 * [Phoenix Suit](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=17802) - It's a custom Phoenix Suit code with GFX. It's basically the Super Leaf powerup but you can fly for only 1 sec and shoot fireballs.
 * [pipeCam.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=18574) - A small API that adds a transition when using warp pipes!
 * [Platforms(SMB3)](https://wohlsoft.ru/forum/viewtopic.php?f=93&t=2940) - SMB3 Touch-Falling Moving Platform + Moving Cloud.
-* [Platforms(SMW)](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24471) - Checkboard + Flying Rock Platforms from Super Mario World.
+* [Platforms(SMW)](https://wohlsoft.ru/forum/viewtopic.php?f=93&t=2939) - SMW Checkboard + Flying Rock Platforms.
 * [playerphysicspatch.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25854) - Customized player physics.
 * [playerSymbols.lua](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=25570) - A script that replaces the usual ‘1UP’ sprite next to the level counter with a custom emblem specific to each character.
 * [Plonker](https://www.supermariobrosx.org/forums/viewtopic.php?f=101&t=24262) - Like a swooper, just more friend-shaped.
